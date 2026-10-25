@@ -1,4 +1,4 @@
-## CO3251 Natural Language Processing - Assignment 2
+
 ##Supermarket Assistant Chatbot
 An intelligent, web-based Supermarket Assistant Chatbot built using "HTML, CSS, JavaScript, and Natural Language Processing (NLP)"concepts. The application is designed to sit at the entrance of a supermarket to assist customers in locating goods on store shelves, building dynamic shopping lists, and generating hard-copy printed summaries.
 
